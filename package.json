@@ -16,11 +16,11 @@
   },
   "_spec": "ionic-tel-input@1.1.0",
   "bugs": {
-    "url": "git+https://github.com/MohamedMardona/ionic-tel-input.git"
+    "url": "git+https://github.com/AyhamJaradat/ionic-tel-input.git"
   },
   "bundleDependencies": false,
   "dependencies": {
-    "intl-tel-input-mobile": "1.0.6",
+    "intl-tel-input-mobile": "https://github.com/AyhamJaradat/intl-tel-input-mobile.git"
     "jquery": "^3.1.1"
   },
   "deprecated": false,
@@ -39,7 +39,7 @@
     "typescript": "~2.7.2",
     "zone.js": "^0.8.26"
   },
-  "homepage": "https://github.com/MohamedMardona/ionic-tel-input.git#readme",
+  "homepage": "https://github.com/AyhamJaradat/ionic-tel-input/blob/master/README.md",
   "license": "MIT",
   "main": "ionic-tel-input.js",
   "name": "ionic-tel-input",
@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MohamedMardona/ionic-tel-input.git"
+    "url": "git+https://github.com/AyhamJaradat/ionic-tel-input.git"
   },
   "scripts": {
     "build": "ngc -p ./tsconfig-ngc.json",
