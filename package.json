@@ -20,7 +20,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "intl-tel-input-mobile": "https://github.com/AyhamJaradat/intl-tel-input-mobile.git"
+    "intl-tel-input-mobile": "https://github.com/AyhamJaradat/intl-tel-input-mobile.git",
     "jquery": "^3.1.1"
   },
   "deprecated": false,
